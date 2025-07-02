@@ -119,7 +119,7 @@ export default function Header() {
                                     </a>
                                 </Button>
                                 <Button 
-                                    onClick={() => window.open("https://github.com", "_blank")}
+                                    onClick={() => window.open("https://github.com/Embi-Dev/FuncForge.git", "_blank")}
                                     variant="outline"
                                     size="sm"
                                     className="h-8 text-xs sm:text-sm"
